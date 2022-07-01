@@ -4,7 +4,7 @@
 #　絵、音の素材
 全てサークル仲間が制作した。協力者：小どばとさん、市毛さん
 
-#　GameSceneの切り替え
+# GameSceneの切り替え
   
 Unity-FadeManager-masterアセットを用いた。
 
